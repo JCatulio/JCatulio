@@ -26,8 +26,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcatulio&show_icons=true&theme=radical&locale=en&layout=compact" alt="jcatulio" />
-  <img width="455em" src="https://github-readme-stats.vercel.app/api?username=jcatulio&show_icons=true&theme=radical&locale=en" alt="jcatulio" />
+  <img width="380em" src="https://github-readme-stats-sage-chi.vercel.app/api/top-langs?username=jcatulio&show_icons=true&theme=radical&locale=en&layout=compact" alt="jcatulio" />
+  <img width="455em" src="https://github-readme-stats-sage-chi.vercel.app/api?username=jcatulio&show_icons=true&theme=radical&locale=en" alt="jcatulio" />
 </div>
 
 
