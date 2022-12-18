@@ -24,12 +24,13 @@
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+ 
 <div>
-  <img width="380em" src="https://github-readme-stats-sage-chi.vercel.app/api/top-langs?username=jcatulio&hide=css&show_icons=true&theme=radical&locale=en&layout=compact" alt="jcatulio" />
-  <img width="455em" src="https://github-readme-stats-sage-chi.vercel.app/api?username=jcatulio&show_icons=true&theme=radical&locale=en" alt="jcatulio" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-sage-chi.vercel.app/api?username=jcatulio&show_icons=true&theme=radical" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sage-chi.vercel.app/api/top-langs/?username=jcatulio&theme=radical&langs_count=7&layout=compact" />
 </div>
-
 
 
 
