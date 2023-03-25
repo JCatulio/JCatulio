@@ -26,7 +26,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
  
 <div>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-sage-chi.vercel.app/api?username=jcatulio&show_icons=true&theme=radical" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-sage-chi.vercel.app/api?username=jcatulio&count_private=true&show_icons=true&theme=radical" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sage-chi.vercel.app/api/top-langs/?username=jcatulio&theme=radical&langs_count=7&layout=compact" />
